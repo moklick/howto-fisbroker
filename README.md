@@ -6,9 +6,9 @@ How to download geodata from fis broker wfs (web feature server) via qgis and sa
 
 #### Find dataset
 
-  1. got to [fis broker](http://fbinter.stadt-berlin.de/fb/index.jsp)
-  2. choose one of them. 
-  3. click 'Zum Downloadlink (WFS)'
+  1. Go to [fis broker](http://fbinter.stadt-berlin.de/fb/index.jsp)
+  2. Choose one of the data sets. For example 'Hausumringe'.
+  3. Click 'Zum Downloadlink (WFS)'
   4. Look for the 'Rechneradresse' point. Its an url like this one for the houses in Berlin : [wfs houses](http://fbinter.stadt-berlin.de/fb/wfs/geometry/senstadt/re_hausumringe)
 
 #### Load data with QGis
