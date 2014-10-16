@@ -14,7 +14,7 @@ How to download geodata from fis broker wfs (web feature server) via qgis and sa
 #### Load data with QGis
 
   1. **Download WFS client plugin.** You can install it via QGis by this steps: 'Plugins' -> 'Manage and Install Plugins...' -> search for 'wfs' -> choose 'WFS 2.0 Client' -> 'Install Plugin'
-  2. **Download Geodata.** Open the plugin by clicking on 'Web' -> 'WFS 2.0 Client' -> 'WFS 2.0 Client'. Type in an url of an WFS. For example : http://fbinter.stadt-berlin.de/fb/wfs/geometry/senstadt/re_hausumringe. Click on 'Get Capabilities'. After that you can define a bounding box, a feature limit and a SRS (spatial reference system). For the datasets of houses you must choose featureCount = '550000' and SRS = 'EPSG:4258'.
+  2. **Download Geodata.** Open the plugin by clicking on 'Web' -> 'WFS 2.0 Client' -> 'WFS 2.0 Client'. Type in an url of a WFS. For example : http://fbinter.stadt-berlin.de/fb/wfs/geometry/senstadt/re_hausumringe. Click on 'Get Capabilities'. After that you can define a bounding box, a feature limit and a SRS (spatial reference system). For the datasets of houses you must choose featureCount = '550000' and SRS = 'EPSG:4258'.
   3. **Save as shapefile**
 
   
