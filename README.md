@@ -22,3 +22,5 @@ If you need to convert the shapefile you can do it with the help of ogr2ogr:
 ```
 $ ogr2ogr -t_srs EPSG:4326 -s_srs EPSG:25833 output.shp input.shp
 ```
+
+Get information of the different spatial reference systems at http://epsg.io/
