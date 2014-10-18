@@ -1,4 +1,4 @@
-How to use WFS with QGis
+How to get data from the fisbroker
 ==============
 
 How to download geodata from a fis broker wfs (web feature server) via qgis and save it as a shape file.
