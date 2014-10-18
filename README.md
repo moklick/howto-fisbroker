@@ -1,7 +1,7 @@
-How to get data from the fisbroker
+Fisbroker How-To
 ==============
 
-How to download geodata from a fis broker wfs (web feature server) via qgis and save it as a shape file.
+How to download geodata from a fis broker wfs (web feature server) via qgis and save it as a shapefile.
 
 
 #### Find dataset
